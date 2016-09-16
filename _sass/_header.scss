@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 1px solid $grey-color-dark;
-	border-bottom: 4px solid $text-color;
+    border-top: 3px solid $text-color;
+	border-bottom: 3px solid $text-color;
     min-height: 56px;
     background: $aggie-maroon;
     // Positioning context for the mobile navigation icon
@@ -142,6 +142,7 @@ z-index:999;
 
 .site-nav h1 {
 	position: absolute;
+  color: $aggie-maroon;
 	left: -999em;
 }
 
