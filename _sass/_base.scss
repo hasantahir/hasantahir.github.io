@@ -13,21 +13,12 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-}
 
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 400;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -45,7 +36,9 @@ ul, ol, dl, figure,
 }
 
 h1 {
+    font-family: $base-font-family;
     color: $aggie-maroon;
+    font-weight: 600;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
@@ -107,11 +100,11 @@ a {
     text-decoration: none;
 
    &:visited {
-    /*    color: darken($brand-color, 15%); */
+        color: darken($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
+        color: $brand-color;
         text-decoration: underline;
     }
 }
