@@ -8,9 +8,7 @@
   href: "/cv/"
 
 - title: "Research"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+  href: "/research/"
+
+- title: "Publications"
+  href: "/publications/"

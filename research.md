@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Miscellany
-permalink: /miscellany/
+title: Research
+permalink: /research/
 ---
