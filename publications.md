@@ -13,8 +13,7 @@ H. T. Abbas and R. Nevels, "[Plasma based integrated on-chip antenna](http://iee
 Antennas and Propagation (APSURSI)*, 2016 IEEE International Sympo-
 sium on, pp. 1645-1646, IEEE, 2016.
 
-J. Shin, H. T. Abbas, and R. Nevels, "[A numerical method for the electro-
-magnetic eld time domain propagator equations](http://ieeexplore.ieee.org/document/7305129/?arnumber=7305129)," *in Antennas and Prop-
+J. Shin, H. T. Abbas, and R. Nevels, "[A numerical method for the electromagnetic field time domain propagator equations](http://ieeexplore.ieee.org/document/7305129/?arnumber=7305129)," *in Antennas and Prop-
 agation & USNC/URSI National Radio Science Meeting, 2015 IEEE Inter-
 national Symposium on*, pp. 1480-1481, IEEE, 2015.
 
