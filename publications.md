@@ -4,10 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-
-
 ## Book Chapter
-R. D. Nevels and H. T. Abbas, [Optical nanoantennas] (http://link.springer.com/referenceworkentry/10.1007/978-981-4560-75-7_43-1), *in Handbook of
+R. D. Nevels and H. T. Abbas, "[Optical nanoantennas](http://link.springer.com/referenceworkentry/10.1007/978-981-4560-75-7_43-1)", *in Handbook of
 Antenna Technologies*, pp. 527-566, Springer Singapore, 2016.
 
 ## Conference Paper
