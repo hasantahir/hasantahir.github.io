@@ -1,5 +1,5 @@
 
-First try of creating a personal website. The template was originaally forked from [svmiller.github.io](http://svmiller.github.io).
+The template of this website was originally forked from [svmiller.github.io](http://svmiller.github.io).
 
 Steve's Notes on the content of the website
 ===========================================

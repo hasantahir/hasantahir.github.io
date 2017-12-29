@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-More to follow soon..
+Soon, I'll start to ramble over here, mostly about stuff that interests me, like LaTeX, Linux, photography and sports.
 
 <ul class="listing">
 {% for post in site.posts %}
