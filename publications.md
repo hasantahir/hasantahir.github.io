@@ -9,9 +9,9 @@ R. D. Nevels and H. T. Abbas, "[Optical nanoantennas](http://link.springer.com/r
 Antenna Technologies*, pp. 527-566, Springer Singapore, 2016.
 
 ## Journal Articles
-H. T. Abbas, X. Zeng, M. AlAmri, R. D. Nevels and M. S. Zubairy, "Nanoscopy using a semiconductor heterostructure as the sample stage", *in review.
+H. T. Abbas, X. Zeng, M. AlAmri, R. D. Nevels and M. S. Zubairy, "Nanoscopy using a semiconductor heterostructure as the sample stage", *in review*.
 
-H. T. Abbas and R. D. Nevels, "A simple boundary condition for infinitesimally thin conductive materials", *in preparation.
+H. T. Abbas and R. D. Nevels, "A simple boundary condition for infinitesimally thin conductive materials", *in preparation*.
 
 ## Conference Papers
 H. T. Abbas and R. Nevels, "[An integral equation scheme for plasma based thin sheets](http://ieeexplore.ieee.org/abstract/document/8072519/)," *in
