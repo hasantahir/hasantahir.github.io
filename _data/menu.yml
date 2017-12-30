@@ -1,9 +1,6 @@
 - title: "About"
   href: "/about/"
 
-- title: "Blog"
-  href: "/blog/"
-
 - title: "CV"
   href: "/cv/"
 
@@ -12,3 +9,6 @@
 
 - title: "Publications"
   href: "/publications/"
+
+- title: "Blog"
+  href: "/blog/"
