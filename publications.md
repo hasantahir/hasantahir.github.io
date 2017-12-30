@@ -15,23 +15,18 @@ H. T. Abbas and R. D. Nevels, "A simple boundary condition for infinitesimally t
 
 ## Conference Papers
 H. T. Abbas and R. Nevels, "[An integral equation scheme for plasma based thin sheets](http://ieeexplore.ieee.org/abstract/document/8072519/)," *in
-Antennas and Propagation (APSURSI)*, 2017 IEEE International Sympo-
-sium on, pp. 953-954, IEEE, 2017.
+Antennas and Propagation (APSURSI)*, 2017 IEEE International Symposium on, pp. 953-954, IEEE, 2017.
 
 H. T. Abbas, R. Nevels ans K. A. Michalski, "[Plasma based terahertz devices](http://ieeexplore.ieee.org/abstract/document/8070694/)," *in
 Antennas and Propagation (APSURSI)*, 2017 Texas Symposium on Wireless and Microwave Circuits and Systems (WMCS), IEEE, 2017.
 
 H. T. Abbas and R. Nevels, "[Plasma based integrated on-chip antenna](http://ieeexplore.ieee.org/abstract/document/7696529/)," *in
-Antennas and Propagation (APSURSI)*, 2016 IEEE International Sympo-
-sium on, pp. 1645-1646, IEEE, 2016.
+Antennas and Propagation (APSURSI)*, 2016 IEEE International Symposium on, pp. 1645-1646, IEEE, 2016.
 
-J. Shin, H. T. Abbas, and R. Nevels, "[A numerical method for the electromagnetic field time domain propagator equations](http://ieeexplore.ieee.org/document/7305129/?arnumber=7305129)," *in Antennas and Prop-
-agation & USNC/URSI National Radio Science Meeting, 2015 IEEE Inter-
-national Symposium on*, pp. 1480-1481, IEEE, 2015.
+J. Shin, H. T. Abbas, and R. Nevels, "[A numerical method for the electromagnetic field time domain propagator equations](http://ieeexplore.ieee.org/document/7305129/?arnumber=7305129)," *in Antennas and Propagation & USNC/URSI National Radio Science Meeting, 2015 IEEE International Symposium on*, pp. 1480-1481, IEEE, 2015.
 
 H. Abbas, J. Shin, and R. Nevels, "[Numerical techniques for evaluating
-electromagnetic field propagators](http://ieeexplore.ieee.org/document/7052541/?arnumber=7052541)," *in Computational Electromagnetics (IC-
-CEM), 2015 IEEE International Conference on*, pp. 22-23, IEEE, 2015.
+electromagnetic field propagators](http://ieeexplore.ieee.org/document/7052541/?arnumber=7052541)," *in Computational Electromagnetics (ICCEM), 2015 IEEE International Conference on*, pp. 22-23, IEEE, 2015.
 
 R. D. Nevels, K. A. Michalski, and H. T. Abbas, "[Plasmonic and surface
 wave propagation in boundary layers in the microwave, THz, and optical
